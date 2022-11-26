@@ -19,7 +19,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.my</groupId>
-			<artifactId>dubbo-service</artifactId>
+			<artifactId>dubbo-service1</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 
